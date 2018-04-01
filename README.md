@@ -20,4 +20,3 @@ Feel free to download and use on your website
 
 
 
-This project is successfully completed.
