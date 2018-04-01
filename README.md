@@ -2,7 +2,7 @@
 
 FORMPRO  is a plugin that can be used on any website.<br>
 
-Features
+Features<br>
 Create user account
 Login User 
 Reset pasword for user
