@@ -1,6 +1,6 @@
 # Using-Form
 
-FORMPRO  is a plugin that can be used on any website.
+FORMPRO  is a plugin that can be used on any website.<br>
 
 Features
 Create user account
