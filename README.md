@@ -10,10 +10,10 @@ Logout user <br><br>
 
 
 Technology<br>
-BootStrap 4.0<br>
+BootStrap<br>
 CSS3<br>
 HTML5<br>
-PHP 7.0.26<br>
+PHP<br>
 
 
 <br><br>Feel free to download and use on your website 
