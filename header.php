@@ -15,9 +15,7 @@ ob_start();
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!--
-    Author: Funke Makanjuola
-    Email: fumakanjuola@gmail.com
-   
+    Author: Funke Adebisi
     This copyright claim and header must be included with any
     distribution of the software and displayed at the bottom of the
     front page in a minimum 11px font size and displayed in readable
