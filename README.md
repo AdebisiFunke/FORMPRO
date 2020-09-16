@@ -2,8 +2,8 @@
 
 FORMPRO  is login form plugin that can be used on any website.<br><br>
 
-Features<br>orm
-Create user account<br>
+Features<br>
+Form Create user account<br>
 Login User <br>
 Reset pasword for user<br>
 Logout user <br><br>
